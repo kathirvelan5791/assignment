@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\bin\Debug\netcoreapp2.1\ApiStudent.deps.json
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\bin\Debug\netcoreapp2.1\ApiStudent.runtimeconfig.json
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\bin\Debug\netcoreapp2.1\ApiStudent.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\bin\Debug\netcoreapp2.1\ApiStudent.dll
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\obj\Debug\netcoreapp2.1\ApiStudent.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\obj\Debug\netcoreapp2.1\ApiStudent.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\obj\Debug\netcoreapp2.1\ApiStudent.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\obj\Debug\netcoreapp2.1\ApiStudent.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\obj\Debug\netcoreapp2.1\ApiStudent.AssemblyInfo.cs
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\obj\Debug\netcoreapp2.1\ApiStudent.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\bin\Debug\netcoreapp2.1\ApiStudent.pdb
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\obj\Debug\netcoreapp2.1\ApiStudent.dll
+C:\Users\HP\source\repos\ApiStudent\ApiStudent\obj\Debug\netcoreapp2.1\ApiStudent.pdb
